@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sterlingwalden! I'm a novice coder, just trying to learn how to get gooder.
-- 👀 I’m interested in expanding my IT skillset by learning how to code and to use these skills to work in the space industry!
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me ... LMAO you want to reach ME?!
-- ⚡ Fun fact: I have no idea what I'm doing!
+<h1>Hello World!</h1>
+<p> This is my github page</p>
+<p> I'm currently growing my Python language skillset, but I intend to add more repos on here with different langauges as time passes.</p>
+
 
 <!---
 sterlingwalden/sterlingwalden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
